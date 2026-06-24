@@ -1,0 +1,9 @@
+a = 10
+b = 5.5
+name = "Devesh"
+is_student = True
+
+print(a)
+print(b)
+print(name)
+print(is_student)
