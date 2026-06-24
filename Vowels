@@ -1,0 +1,7 @@
+def vowel_check(ch):
+    if ch in "aeiouAEIOU":
+        print("Vowel")
+    else:
+        print("Consonant")
+
+vowel_check('a')
